@@ -1,4 +1,7 @@
-*.mscz,
 *.mp3
-*.xml
 *.swp
+*.autosave
+*.tmp
+*.odt#
+*.aup
+*.aup-wal
